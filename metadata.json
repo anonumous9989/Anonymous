@@ -1,0 +1,5 @@
+{
+  "name": "Anonymous Chess",
+  "description": "A sophisticated chess application featuring a sleek UI, real-time move validation, and an integrated AI opponent powered by Gemini for move analysis and strategic suggestions.",
+  "requestFramePermissions": []
+}
